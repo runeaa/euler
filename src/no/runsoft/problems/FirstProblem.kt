@@ -1,4 +1,4 @@
-package no.runsoft.probles
+package no.runsoft.problems
 
 fun main(args: Array<String>) {
     var sum = 0
